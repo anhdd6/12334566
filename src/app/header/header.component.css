@@ -1,0 +1,9 @@
+.a{
+  display: flex;
+  font-size: 45px;
+  background-color: rgb(30, 123, 210);
+  height: 60px;
+  justify-content: center;
+  align-items: center;
+
+}
